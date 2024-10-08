@@ -1,2 +1,7 @@
-# Hello-World.c
-My first Programme
+#include<stdio.h>
+int main()
+{
+printf("Hello");
+printf("Welcome to Manthan's coding World");
+return 0;
+}
